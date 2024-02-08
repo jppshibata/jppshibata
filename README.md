@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello Devs, I'm João Paulo!! 👋
+
+### Desenvolvedor Back-end 💻
+<div>
+<a href = "mailto:jppshibata@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joao-paulo-pagenotto-shibata/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/jppshibata" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/my-Portfolio-blue?style=for-the-badge" target="_blank"></a>
+</div>
 
 <!--
 **jppshibata/jppshibata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
